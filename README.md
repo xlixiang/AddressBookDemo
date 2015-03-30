@@ -3,13 +3,13 @@
 
 首页界面如下图：
 
-![](https://github.com/xlixiang/AddressBookDemo/IntroduceImage/firstpage.png)
+![image](https://github.com/xlixiang/AddressBookDemo/raw/master/IntroduceImage/firstpage.png "首页")
 
 添加和编辑共用同一个页面进行实现：
 
 添加界面如下：
-![](https://github.com/xlixiang/AddressBookDemo/IntroduceImage/addPage.png)
+![image](https://github.com/xlixiang/AddressBookDemo/raw/master/IntroduceImage/addPage.png "添加记录")
 
 编辑界面如下：
 
-![](https://github.com/xlixiang/AddressBookDemo/IntroduceImage/editPage.png)
+![image](https://github.com/xlixiang/AddressBookDemo/raw/master/IntroduceImage/editPage.png "编辑信息")
